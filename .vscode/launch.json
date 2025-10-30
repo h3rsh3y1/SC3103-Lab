@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/harshalghate/Documents/GitHub/SC3013-Lab/lab4/exercise",
+      "program": "/Users/harshalghate/Documents/GitHub/SC3013-Lab/lab4/exercise/build/Debug/outDebug"
+    }
+  ]
+}
