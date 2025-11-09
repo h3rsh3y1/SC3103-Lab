@@ -17,6 +17,6 @@ module_init(hello_init);
 module_exit(hello_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Zhang Xuanye");
+MODULE_AUTHOR("GHATE HARSHAL SHRIKANT");
 MODULE_DESCRIPTION("Hello module");
 MODULE_VERSION("v1");
